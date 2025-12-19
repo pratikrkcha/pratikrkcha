@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋
 
-<!--
-**pratikrkcha/pratikrkcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at IIIT Allahabad  
+💻 Interested in Competitive Programming & building projects  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- C++ | JavaScript | HTML | CSS
+- FlutterFlow | Firebase
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Competitive Programming
+- Codeforces: https://codeforces.com/profile/pratikrkcha
+- CodeChef: https://www.codechef.com/users/pratikrkcha
+
+### 📫 Connect with me
+- Instagram: https://instagram.com/pratikrkcha
+- LinkedIn: www.linkedin.com/in/pratik-rakhecha-384529313
